@@ -10,11 +10,7 @@ namespace RecursiveConsoleApp
     {
         static void Main(string[] args)
         {
-            List<Employee> employees = File.ReadAllLines("Data\\employees.csv")
-                               .Skip(1)
-                               .Select(v => Employee.FromCsv(v))
-                               .ToList();
-
+            List<Employee> employees = GetEmployees();
 
             var hierachy1 = employees.RecursiveJoin(element => element.EmployeeId,
                 element => element.ManagerId ?? 0,
@@ -31,11 +27,15 @@ namespace RecursiveConsoleApp
 
 
 
-            //var hierachy2 = employees.Traverse
+            var hierachy2 = employees.AsHierarchy(e => e.ManagerId, e => e.ManagerId).ToList();
+        }
 
-
-
-            var hierachy3 = employees.AsHierarchy(e => e.EmployeeId, e => e.ManagerId).ToList();
+        private static List<Employee> GetEmployees()
+        {
+            return File.ReadAllLines("Data\\employees.csv")
+                               .Skip(1)
+                               .Select(v => Employee.FromCsv(v))
+                               .ToList();
         }
     }
 }

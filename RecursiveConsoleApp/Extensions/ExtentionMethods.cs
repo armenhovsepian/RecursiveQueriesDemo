@@ -7,6 +7,12 @@ namespace RecursiveConsoleApp.Extensions
     public static class ExtentionMethods
     {
         // https://entityframework.net/knowledge-base/20974248/recursive-hierarchy---recursive-query-using-linq
+        /*
+            var recursiveList = db.ProcessHierarchyItems
+            .Where(x => x.id == id)
+            .SelectMany(x => x.Children);
+
+         */
         public static IEnumerable<T> Traverse<T>(this IEnumerable<T> items,
             Func<T, IEnumerable<T>> childSelector)
         {

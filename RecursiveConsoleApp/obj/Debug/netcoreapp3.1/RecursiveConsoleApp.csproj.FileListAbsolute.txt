@@ -12,3 +12,17 @@ D:\GithubProjects\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3
 D:\GithubProjects\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.dll
 D:\GithubProjects\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.pdb
 D:\GithubProjects\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.genruntimeconfig.cache
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\bin\Debug\netcoreapp3.1\Data\employees.csv
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\bin\Debug\netcoreapp3.1\RecursiveConsoleApp.exe
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\bin\Debug\netcoreapp3.1\RecursiveConsoleApp.deps.json
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\bin\Debug\netcoreapp3.1\RecursiveConsoleApp.runtimeconfig.json
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\bin\Debug\netcoreapp3.1\RecursiveConsoleApp.runtimeconfig.dev.json
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\bin\Debug\netcoreapp3.1\RecursiveConsoleApp.dll
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\bin\Debug\netcoreapp3.1\RecursiveConsoleApp.pdb
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.csprojAssemblyReference.cache
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.AssemblyInfoInputs.cache
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.AssemblyInfo.cs
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.csproj.CoreCompileInputs.cache
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.dll
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.pdb
+D:\repos\RecursiveQueriesDemo\RecursiveConsoleApp\obj\Debug\netcoreapp3.1\RecursiveConsoleApp.genruntimeconfig.cache

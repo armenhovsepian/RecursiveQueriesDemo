@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GithubProjects\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj": {}
+    "D:\\repos\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\GithubProjects\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj": {
+    "D:\\repos\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GithubProjects\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj",
+        "projectUniqueName": "D:\\repos\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj",
         "projectName": "RecursiveConsoleApp",
-        "projectPath": "D:\\GithubProjects\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\NP\\.nuget\\packages\\",
-        "outputPath": "D:\\GithubProjects\\RecursiveQueriesDemo\\RecursiveConsoleApp\\obj\\",
+        "projectPath": "D:\\repos\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\ArmenHovsepian\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\RecursiveQueriesDemo\\RecursiveConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\NP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ArmenHovsepian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

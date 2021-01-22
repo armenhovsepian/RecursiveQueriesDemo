@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9CQ+Q4qku6pKAmuZ+zolTwd99mVClKi0rDLNgfLZ+p8883Y+o82Cx8S1wDd7Dlmb4I1iavlESHlbp2KwAGWfwA==",
+  "dgSpecHash": "6/S3rqCBnfDB2+df9+5MtpvigigO3FqQx0E7WH9mKhLpQ42f5Ad6A/8AdfD3L1ap0HdFwkQGUFNQu+r4wm5pVg==",
   "success": true,
-  "projectFilePath": "D:\\GithubProjects\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj",
+  "projectFilePath": "D:\\repos\\RecursiveQueriesDemo\\RecursiveConsoleApp\\RecursiveConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
